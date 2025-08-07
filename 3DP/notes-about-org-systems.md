@@ -32,4 +32,7 @@
   	- generator: [MakerWorld](https://makerworld.com/en/models/783010-underware-2-0-infinite-cable-management)
 
 
+
+
+This documentation, and my documentation only, is CC-BY-NC-SA to the extent permitted by law. This license does not apply to anything linked within, as those licenses follow those the creators intended.
 <a href="https://github.com/no1unorightnow/misc/blob/main/3DP/notes-about-org-systems.md">3D printed organizational systems notes</a> © 2025 by <a href="https://github.com/no1unorightnow">no1unorightnow</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
