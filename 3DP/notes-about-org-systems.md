@@ -10,6 +10,24 @@
 	1. cables, objects, etc.
 		1. STLs vs generators
 
+### Systems
+
+- Multiboard
+- openGrid
+
+### Planning
+
+### Tiles
+
+### Mounts
+
+### Object holders
+
+- Underware for openGrid
+	- static STLs (David D); [Printables](https://www.printables.com/model/1214427-underware-for-opengrid-manage-your-cables-lite-ly) and [MakerWorld](https://makerworld.com/en/models/1175037-underware-for-opengrid)
+	- generator (Pedro Leite); [MakerWorld](https://makerworld.com/en/models/1329404-underware-for-opengrid-customizer-beta)
+- Underware legacy/1.0 (Hands on Katie)
+- Underware 2.0 (BlackJack Duck)
 
 
 <a href="https://github.com/no1unorightnow/misc/blob/main/3DP/notes-about-org-systems.md">3D printed organizational systems notes</a> © 2025 by <a href="https://github.com/no1unorightnow">no1unorightnow</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
