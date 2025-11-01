@@ -10,7 +10,7 @@
 		- Pro
 		- Plus/+
   - NOT okay:
-		- Carbon fiber
+	- Carbon fiber
     - Glass fiber
     - Glitter (such as Polymaker's Galaxy line)
     - Wood
